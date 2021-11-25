@@ -1,4 +1,4 @@
-#Program : To get the 4th element and 4th element from last of a tuple.
+#Program :To get the 4th element and 4th element from last of a tuple.
 
 my_tuple = ('p','y','t','h','o','n')
 
